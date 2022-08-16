@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.panavtec:drawableview:0.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d1c8368df50041b4c0c6aba06e8013/jetified-drawableview-0.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d1c8368df50041b4c0c6aba06e8013/jetified-drawableview-0.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/71d1c8368df50041b4c0c6aba06e8013/jetified-drawableview-0.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.panavtec/drawableview/0.6.0/5408b34ca4eae4a66495460d8b043318f02575e3/drawableview-0.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.panavtec/drawableview/0.6.0/42543b9c17e37957b7e908129adaaa11824829e8/drawableview-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

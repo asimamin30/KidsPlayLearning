@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FRENDZ/Downloads/Compressed/KidsPlay&amp;Learning_source/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_exam_listen_guess.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_exam_question.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_full_screen.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_list_video.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_setting.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_splash.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_sub.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_video_learning.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_video_play.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_exam_answer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_exam_phonics.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_item_related_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_item_video_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_list_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_list_start.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/item_notification_coll.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/item_notification_expand.xml" value="0.1796875" />
+        <entry key="..\:/Users/Husnain/Desktop/InDevelopment/kids-preschool-android-app/KidsPlay/KidsPlay&amp;Learning_source/app/src/main/res/layout/viewpager_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/btn_custom.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/et_custom.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/gradient.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_arrow_back_white_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_arrow_left.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_arrow_right.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_library_books_black_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_lock_black_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/ic_person_white_24dp.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/round_btn.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/drawable/rounded_speakbar.xml" value="0.146" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_admin_dash_board.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_admin_login.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_drawing.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_forget.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_forget02.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_home.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_profile_activiy.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_quiz.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_registration.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_splash.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/admin_rc_card.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/card_list_start.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/menu/drawingmenu.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/menu/menu.xml" value="0.184375" />
+        <entry key="..\:/Users/hp/Desktop/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.146" />
+        <entry key="..\:/Users/learn/AndroidStudioProjects/Autistic Child Learner/Autistic Child Learner/Autistic Child Learner/Autistic Child Learner/KidsPlay&amp;Learning_source/app/src/main/res/layout/activity_full_screen.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

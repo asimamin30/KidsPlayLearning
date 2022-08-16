@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1089263998571",
+    "firebase_url": "https://child-e88c5-default-rtdb.firebaseio.com",
+    "project_id": "child-e88c5",
+    "storage_bucket": "child-e88c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089263998571:android:9452caf0f099274c72032e",
+        "android_client_info": {
+          "package_name": "com.fyp.autisticchildlearner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089263998571-aeok48jp38jjvq4r4phkru3q7edmgvpm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.autisticchildlearner",
+            "certificate_hash": "b5be22cf63e57a7572dca1a506826ce64dbaee3d"
+          }
+        },
+        {
+          "client_id": "1089263998571-564ucn8rhrk06paflnkasfgjn3uvc5p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3YPADlID3FnqnZ81FZn6QxdaL6Zn1B-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089263998571-564ucn8rhrk06paflnkasfgjn3uvc5p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
